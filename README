@@ -1,3 +1,11 @@
+Outdated - mypeople service was closed.
+
 mypeople messenger python library
+ - mypeople messenger service provided web interface.
+ - And it internally provided restfull interface.
+ - So, I provide library to use these interface by python easly.
+ - I wanted to make bot in mypeople. and i made bot by using this library
 
 마이피플 메신저 파이썬 라이브러리
+ - 마이피플에서 제공하는 웹 인터페이스를 사용하여 마이피플 메시지 서비스를 사용할수 있는 파이썬 라이브러리를 만들었습니다.
+ - 마이피플에서 봇을 만들기 위해 라이브러리를 만들었으며, 이 라이브러리로 봇을 만들었습니다.
